@@ -1,0 +1,4 @@
+name: TownyCompactNations
+version: '${project.version}'
+main: me.schismtism.townycompactnations.TownyCompactNations
+api-version: '1.20'
